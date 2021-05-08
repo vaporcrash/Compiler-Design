@@ -1,0 +1,4 @@
+A->A+T|T
+T->T*F|F
+B->B+T|B-T|a|b
+F->id
